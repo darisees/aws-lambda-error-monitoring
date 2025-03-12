@@ -14,10 +14,10 @@ The repository contains the following directories and files:
 
 ## 🌐 Features
 
-✅ CloudWatch Log Monitoring  
-✅ Automatic Error Detection  
-✅ SNS Email Notifications  
-✅ CloudWatch Alarms Integration  
+- CloudWatch Log Monitoring  
+- Automatic Error Detection  
+- SNS Email Notifications  
+- CloudWatch Alarms Integration  
 
 ## ⚡ Prerequisites
 
@@ -41,7 +41,7 @@ Before using this repository, ensure you have:
 
 ### Step 3: Upload the Scripts
 1. Place the **test error script** and **automatic error detection script** in your Lambda environment.
-2. Refer to the [`scripts/`](./scripts/) directory in this repository for script details.
+2. Refer to the [**`scripts/`**](./scripts/) directory in this repository for script details.
 
 ## 🔧 How to Test
 
@@ -53,7 +53,6 @@ Before using this repository, ensure you have:
    - Ensure it detects errors **automatically**.
    - Verify that **SNS notifications** are received.
 
-For detailed explanations, refer to the documentation in the **`job-sheet/`** folder.
+For detailed explanations, refer to the documentation in the [**`job-sheet/`**](./job-sheet/) folder.
 
 Feel free to contribute to improve these playbooks or optimize the configurations!
-
