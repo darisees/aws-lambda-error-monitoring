@@ -12,7 +12,7 @@ The repository contains the following directories and files:
 - **`LICENSE`** : The license file for this repository.
 - **`README.md`** : This document, providing an overview of the repository.
 
-## 🌐 Features
+## 🔎 Features
 
 - CloudWatch Log Monitoring  
 - Automatic Error Detection  
