@@ -19,7 +19,7 @@ The repository contains the following directories and files:
 - SNS Email Notifications  
 - CloudWatch Alarms Integration  
 
-## ⚡ Prerequisites
+## ❗Requirements
 
 Before using this repository, ensure you have:
 
