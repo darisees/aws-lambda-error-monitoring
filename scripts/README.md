@@ -40,4 +40,4 @@ This script automatically monitors CloudWatch Logs for errors and sends an SNS n
 - Ensure the correct IAM role permissions are assigned to Lambda.
 
 ## Contribution
-Feel free to contribute by improving the playbooks, adding new automation features, or optimizing configurations.
+Feel free to contribute by improving the scripts, adding new automation features, or optimizing configurations.
