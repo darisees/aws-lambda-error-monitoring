@@ -2,7 +2,7 @@
 
 Welcome to the **AWS Lambda Error Monitoring Repository**! This repository provides an automated solution for monitoring AWS Lambda errors using Amazon CloudWatch and SNS notifications. 
 
-## 📂 Folder Structure
+## 📂 Directory Structure
 
 The repository contains the following directories and files:
 
