@@ -1,6 +1,6 @@
 # Scripts for AWS Lambda Error Monitoring
 
-This folder contains Python scripts used for AWS Lambda error monitoring and notification.
+This directory contains Python scripts used for AWS Lambda error monitoring and notification.
 
 ## Available Scripts
 
