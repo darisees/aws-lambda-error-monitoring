@@ -64,7 +64,7 @@ Lambda needs permissions to access CloudWatch Logs and SNS.
 
 ## Step 3: Enable CloudWatch Logging
 
-1. Go to **AWS Lambda** → Select **`my-app`**.
+1. Go to **AWS Lambda** → Select `my-app`.
 
 2. Click **Configuration** → **Monitoring and operations tools**.
 3. Ensure that **Amazon CloudWatch Logs** is enabled.
@@ -110,7 +110,7 @@ Lambda needs permissions to access CloudWatch Logs and SNS.
 
 ## Step 7: Deploy and Test the Setup
 
-1. Manually trigger **`my-app`** Lambda function.
+1. Manually trigger `my-app` Lambda function.
 
 2. Check **CloudWatch Logs** under `/aws/lambda/my-app`.
 3. Ensure **errors** are detected in logs.
@@ -194,7 +194,7 @@ def lambda_handler(event, context):
 
 1. Navigate to **AWS CloudWatch** → **Logs** → **Log groups** → `/aws/lambda/my-app`.
 
-2. Go to **CloudWatch Alarms** → **Select `LambdaErrorCount` alarm**.
+2. Go to **CloudWatch Alarms** → Select `LambdaErrorCount` alarm.
 3. Ensure the alarm status changes when an error is detected.
 4. Verify that SNS notifications are received in your email.
 5. Regularly monitor logs and alarms to ensure proper functionality.
